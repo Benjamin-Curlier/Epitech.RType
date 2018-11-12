@@ -1,1 +1,2 @@
-Epitech.RType
+# EpitechRType
+Epitech - RType 
